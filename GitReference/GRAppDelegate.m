@@ -7,6 +7,8 @@
 //
 
 #import "GRAppDelegate.h"
+#import "GRViewController.h"
+
 
 @implementation GRAppDelegate
 
